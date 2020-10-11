@@ -1,0 +1,6 @@
+1. Visual Studio Code - zainstalowany
+2. Środowisko - uruchomione
+3. Rozszerznie C/C++ IntelliSense, debugging, and code browsing firmy Microsoft - zainstalowane
+4. Kompilator C++ MinGW 64 dla systemu Windows - zainstalowany
+5. Lokalizacja kompilatora w zmiennej globalnej PATH - dodana
+6. Kompilator oraz rozszerzenia VSC dla języka Java - zainstalowane
