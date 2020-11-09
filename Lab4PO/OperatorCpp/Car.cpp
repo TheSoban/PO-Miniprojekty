@@ -65,7 +65,7 @@ Car &Car::operator ++(int i) {
 }
 
 Car &Car::operator |=(int i) {
-  // Głupi przykład ale nie wiem co innego można zrobić w samochodzie za pomocą bramki xor
+  // Głupi przykład ale nie wiem co innego można zrobić w samochodzie za pomocą bramki or
   this->mileage |= i;
   return *this;
 }
