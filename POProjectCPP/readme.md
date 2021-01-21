@@ -10,7 +10,7 @@ Use git clone to copy repository.
 git clone https://github.com/TheSoban/PO-Miniprojekty.git
 ```
 
-Execute main.exe located at '/POProjectJPP'
+Execute Snake.exe located at '/POProjectCPP/Build'
 
 ## Usage
 
